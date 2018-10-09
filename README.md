@@ -1,1 +1,1 @@
-# Text-Classification-with-LSTM
+# Text-Classification-with-LSTM on 20news dataset
